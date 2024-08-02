@@ -1,9 +1,8 @@
 class Solution {
 public:
     string reverseOnlyLetters(string s) {
-        int len = (int)s.size();
         int start = 0;
-        int end = len-1;
+        int end = (int)s.size();
         while(start < end) {
             while(start < end && !isalpha(s[start])){
                 start++;
@@ -12,13 +11,12 @@ public:
                 end--;
             }
             if(start < end) {
-                char temp;
-                temp = s[start];
+                char aux = s[start];
                 s[start] = s[end];
-                s[end] = temp;
+                s[end] = aux;
                 start++;
                 end--;
-            }
+            }   
         }
         return s;
     }
