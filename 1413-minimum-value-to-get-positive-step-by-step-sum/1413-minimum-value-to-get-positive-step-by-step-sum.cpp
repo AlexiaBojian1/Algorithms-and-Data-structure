@@ -8,6 +8,6 @@ public:
             mini = min(mini, prefix.back());
         }
         int ans =  1 - mini;
-        return (ans != 0) ? ans : 1;
+        return (ans > 0) ? ans : 1;
     }
 };
