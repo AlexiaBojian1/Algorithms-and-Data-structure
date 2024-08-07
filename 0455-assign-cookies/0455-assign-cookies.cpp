@@ -6,9 +6,6 @@ public:
         if(s.size() == 0) {
             return 0;
         }
-        if(g[0] > s[0]) {
-            return 0;
-        }
         int p1 = 0;
         int p2 = 0;
         int count = 0;
