@@ -1,15 +1,16 @@
 class Solution {
 public:
     int countElements(vector<int>& arr) {
-        unordered_set<int> Sett;
-        for(int num: arr) {
-            Sett.insert(num);
-        }
+        set<int> sety;
         int count = 0;
-        for(int num:arr) {
-            if(Sett.find(num+1) != Sett.end())
-            count++;
-        }
-        return count;
+         for(int num:arr) {
+            sety.insert(num);
+         }
+         for(int num:arr){
+            if(sety.find(num+1) != sety.end()) {
+                count++;
+            }
+         }
+         return count;
     }
 };
