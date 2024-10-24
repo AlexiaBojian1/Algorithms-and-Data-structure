@@ -1,7 +1,7 @@
 class Solution {
 public:
     double champagneTower(int poured, int query_row, int query_glass) {
-        double A[102][102];
+        double A[102][102] = {0.0};
         A[0][0] = (double)poured;
         for(int r = 0;r <= query_row;r++) {
             for(int c = 0; c <= r; c++) {
