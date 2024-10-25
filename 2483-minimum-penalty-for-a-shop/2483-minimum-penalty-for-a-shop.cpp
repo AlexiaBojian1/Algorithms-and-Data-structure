@@ -4,7 +4,7 @@ public:
         int n = customers.size();
         int pen = 0;
         int res = -1;
-        int maxi  = -1;
+        int maxi  = 0;
         for(int i = 0; i < n; i++) {
             if(customers[i] == 'Y') {
                 pen++;
