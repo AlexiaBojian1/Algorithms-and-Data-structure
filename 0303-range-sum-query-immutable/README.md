@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/range-sum-query-immutable/">303. Range Sum Query - Immutable</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following type:</p>
+<h2><a href="https://leetcode.com/problems/range-sum-query-immutable">303. Range Sum Query - Immutable</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following type:</p>
 
 <ol>
 	<li>Calculate the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> where <code>left &lt;= right</code>.</li>
