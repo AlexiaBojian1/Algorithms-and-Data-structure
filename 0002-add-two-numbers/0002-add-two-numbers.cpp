@@ -15,19 +15,16 @@ public:
         ListNode* curr  = dummy;
         int carry = 0;
         while(l1 != nullptr || l2 != nullptr || carry != 0){
-            int x;
-            if(l1 !=0){
-                x = l1->val;
-            } else {
-                x = 0;
-            }
-            int y = l2 ? l2->val :0;
+
+            int x = (l1 != nullptr) ? l1->val : 0;
+            int y = (l2 != nullptr) ? l2->val : 0;
             int sum = x + y + carry;
             carry = sum/10;
             curr->next = new ListNode(sum%10);
             curr = curr->next;
-            l1 = l1 ? l1->next : nullptr;
-            l2 = l2 ? l2->next: nullptr;
+            l1 = (l1 != nullptr) ? l1->next : nullptr;
+            l2 = (l2 != nullptr) ? l2->next : nullptr;
+
         }
         return dummy->next;
     }
