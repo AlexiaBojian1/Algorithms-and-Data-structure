@@ -9,6 +9,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,8 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
