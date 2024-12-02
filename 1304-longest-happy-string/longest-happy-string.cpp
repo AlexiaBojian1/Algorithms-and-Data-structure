@@ -14,23 +14,23 @@ public:
     
         string ans = "";
         while(!maxHeap.empty()) {
-            auto [count_first , char_first] = maxHeap.top();
+            auto [count, element] = maxHeap.top();
             maxHeap.pop();
-            if(ans.length() >= 2 && ans[ans.length() - 1] == char_first && ans[ans.length() - 2] == char_first) {
+            if(ans.length() >= 2 && ans[ans.length() - 1] == element && ans[ans.length() - 2] == element) {
                 if(maxHeap.empty()) break;
-
-                auto [count_second, char_second] = maxHeap.top();
+                auto[counttemp , elemtemp] = maxHeap.top();
                 maxHeap.pop();
-                ans += char_second;
-                if(count_second - 1 > 0) {
-                    maxHeap.push({count_second - 1, char_second});
+                ans += elemtemp;
+                if(counttemp - 1 > 0) {
+                    maxHeap.push({counttemp - 1, elemtemp});
                 }
-            } else {
-                count_first--;
-                ans += char_first;
             }
-            if(count_first > 0) {
-                maxHeap.push({count_first, char_first});
+            else {
+                ans += element;
+                count--;
+            }
+            if(count> 0) {
+                maxHeap.push({count, element});
             }
         }
         return ans;
