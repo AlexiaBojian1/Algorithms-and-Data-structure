@@ -34,5 +34,26 @@ This repository contains a collection of problems related to algorithms and data
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
