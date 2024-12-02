@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/seat-reservation-manager">1955. Seat Reservation Manager</a></h2><h3>Medium</h3><hr><p>Design a system that manages the reservation state of <code>n</code> seats that are numbered from <code>1</code> to <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/seat-reservation-manager">Seat Reservation Manager</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Design a system that manages the reservation state of <code>n</code> seats that are numbered from <code>1</code> to <code>n</code>.</p>
 
 <p>Implement the <code>SeatManager</code> class:</p>
 
