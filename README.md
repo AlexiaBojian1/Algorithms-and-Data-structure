@@ -12,6 +12,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 | [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -45,6 +46,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
+| [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 ## Tree
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 ## Counting
 |  |
 | ------- |
