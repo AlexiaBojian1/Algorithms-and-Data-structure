@@ -51,6 +51,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
+| [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 ## Tree
@@ -63,6 +64,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
