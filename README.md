@@ -115,4 +115,20 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
