@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i">3245. Find Beautiful Indices in the Given Array I</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> string <code>s</code>, a string <code>a</code>, a string <code>b</code>, and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i">Find Beautiful Indices in the Given Array I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> string <code>s</code>, a string <code>a</code>, a string <code>b</code>, and an integer <code>k</code>.</p>
 
 <p>An index <code>i</code> is <strong>beautiful</strong> if:</p>
 
