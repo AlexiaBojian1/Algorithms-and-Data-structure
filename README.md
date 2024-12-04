@@ -15,6 +15,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -148,4 +149,12 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
