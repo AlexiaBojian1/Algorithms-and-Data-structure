@@ -14,6 +14,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
@@ -53,6 +54,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
@@ -98,6 +100,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
