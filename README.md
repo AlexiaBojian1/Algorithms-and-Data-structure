@@ -9,6 +9,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -40,6 +41,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
@@ -63,6 +65,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
