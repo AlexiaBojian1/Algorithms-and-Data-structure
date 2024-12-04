@@ -11,6 +11,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
@@ -139,16 +140,19 @@ This repository contains a collection of problems related to algorithms and data
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
@@ -178,6 +182,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 ## Rolling Hash
 |  |
