@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line">1349. Check If It Is a Straight Line</a></h2><h3>Easy</h3><hr><p>You are given an array&nbsp;<code>coordinates</code>, <code>coordinates[i] = [x, y]</code>, where <code>[x, y]</code> represents the coordinate of a point. Check if these points&nbsp;make a straight line in the XY plane.</p>
+<h2><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line">Check If It Is a Straight Line</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array&nbsp;<code>coordinates</code>, <code>coordinates[i] = [x, y]</code>, where <code>[x, y]</code> represents the coordinate of a point. Check if these points&nbsp;make a straight line in the XY plane.</p>
 
 <p>&nbsp;</p>
 
