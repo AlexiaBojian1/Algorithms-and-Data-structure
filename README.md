@@ -11,6 +11,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
@@ -89,6 +90,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -142,4 +144,8 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
