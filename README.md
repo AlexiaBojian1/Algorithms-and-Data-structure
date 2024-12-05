@@ -15,6 +15,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
+| [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
@@ -130,6 +131,7 @@ This repository contains a collection of problems related to algorithms and data
 ## String
 |  |
 | ------- |
+| [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
