@@ -1,40 +1,43 @@
 class Solution {
 public:
-    int m , n;
-    vector<vector<char>> grid;
+    int m ;
+    int n;
+    vector<pair<int,int>> directions=  {{0,1}, {1,0}, {-1,0}, {0,-1}};
     vector<vector<bool>> seen;
-    vector<vector<int>> directions = {{1,0},{0,1},{-1,0},{0,-1}};
+    vector<vector<char>> grid;
     int numIslands(vector<vector<char>>& grid) {
-        this->grid = grid;
-        n = grid[0].size();
-        m = grid.size();
 
-        seen = vector(m , vector<bool>(n , false));
+        this->grid = grid;
+        n = grid.size();
+         m = grid[0].size();
+        seen = vector(n, vector<bool>(m, false));
+
         int ans = 0;
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n ;j++) {
-                if(grid[i][j] == '1' && !seen[i][j]) {
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m ;j++) {
+                if(!seen[i][j] && grid[i][j] == '1') {
                     ans++;
                     seen[i][j] = true;
                     dfs(i,j);
                 }
             }
         }
+
         return ans;
     }
 
-    void dfs(int row , int col) {
-        for(auto direction : directions) {
-            int nextrow = row + direction[0];
-            int nextcol = col + direction[1];
-            if(valid(nextrow, nextcol) && !seen[nextrow][nextcol]) {
-                seen[nextrow][nextcol] = true;
-                dfs(nextrow, nextcol);
+    void dfs(int row, int col) {
+        for( auto direction : directions) {
+            int newrow = row + direction.first;
+            int newcol = col + direction.second;
+            if(valid(newrow, newcol) && !seen[newrow][newcol]) {
+                seen[newrow][newcol] = true;
+                dfs(newrow, newcol);
             }
         }
     }
 
-    bool valid(int row, int col) {
-        return 0 <= row && row < m && 0 <= col && col < n && grid[row][col] == '1';
+    bool valid(int i, int j) {
+        return 0<= i && i < n && 0 <= j && j < m && grid[i][j] == '1';
     }
 };
