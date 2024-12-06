@@ -172,6 +172,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
