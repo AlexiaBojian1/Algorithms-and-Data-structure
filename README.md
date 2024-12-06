@@ -152,6 +152,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -169,6 +171,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
