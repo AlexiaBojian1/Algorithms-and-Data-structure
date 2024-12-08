@@ -29,6 +29,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -175,6 +176,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1229-shortest-path-with-alternating-colors](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |
 | ------- |
@@ -222,6 +224,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Rolling Hash
 |  |
 | ------- |
