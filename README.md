@@ -26,6 +26,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -171,6 +172,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
@@ -217,6 +219,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Rolling Hash
 |  |
 | ------- |
