@@ -172,6 +172,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
@@ -186,6 +187,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Bit Manipulation
