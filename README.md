@@ -25,6 +25,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -181,6 +182,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -232,6 +234,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2038-nearest-exit-from-entrance-in-maze) |
