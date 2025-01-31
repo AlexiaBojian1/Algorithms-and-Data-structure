@@ -226,6 +226,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
+| [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
@@ -241,6 +242,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
@@ -274,4 +276,5 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
