@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/house-robber-iv">2690. House Robber IV</a></h2><h3>Medium</h3><hr><p>There are several consecutive houses along a street, each of which has some money inside. There is also a robber, who wants to steal money from the homes, but he <strong>refuses to steal from adjacent homes</strong>.</p>
+<h2><a href="https://leetcode.com/problems/house-robber-iv">House Robber IV</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There are several consecutive houses along a street, each of which has some money inside. There is also a robber, who wants to steal money from the homes, but he <strong>refuses to steal from adjacent homes</strong>.</p>
 
 <p>The <strong>capability</strong> of the robber is the maximum amount of money he steals from one house of all the houses he robbed.</p>
 
