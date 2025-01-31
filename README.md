@@ -223,6 +223,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -233,6 +234,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0213-house-robber-ii) |
@@ -268,4 +270,8 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
