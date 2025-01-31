@@ -37,6 +37,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -238,6 +239,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
+| [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
 | ------- |
