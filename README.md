@@ -50,6 +50,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
+| [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -244,6 +246,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0213-house-robber-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
