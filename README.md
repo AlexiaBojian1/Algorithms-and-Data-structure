@@ -46,6 +46,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
@@ -151,6 +152,7 @@ This repository contains a collection of problems related to algorithms and data
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
 | [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
@@ -235,6 +237,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0198-house-robber) |
