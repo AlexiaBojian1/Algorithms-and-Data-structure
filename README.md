@@ -24,6 +24,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
@@ -107,6 +108,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
@@ -133,6 +135,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
@@ -240,6 +243,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -304,4 +308,8 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
