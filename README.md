@@ -7,6 +7,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
