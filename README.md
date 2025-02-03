@@ -155,6 +155,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 ## String
 |  |
@@ -236,6 +237,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
@@ -290,6 +292,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 ## Memoization
 |  |
