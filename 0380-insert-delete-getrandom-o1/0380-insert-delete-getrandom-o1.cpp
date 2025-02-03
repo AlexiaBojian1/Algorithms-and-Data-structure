@@ -23,7 +23,7 @@ public:
 
         list[index] = lastElement;
         dict[lastElement] = index;
-
+        
         list.pop_back();
         dict.erase(val);
         return true;
