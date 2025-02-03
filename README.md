@@ -73,6 +73,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
+| [1488-sort-integers-by-the-power-value](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1488-sort-integers-by-the-power-value) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
@@ -268,6 +269,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1488-sort-integers-by-the-power-value) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
@@ -304,6 +306,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1488-sort-integers-by-the-power-value) |
 ## Trie
 |  |
 | ------- |
