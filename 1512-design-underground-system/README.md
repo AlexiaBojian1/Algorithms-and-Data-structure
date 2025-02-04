@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-underground-system">1512. Design Underground System</a></h2><h3>Medium</h3><hr><p>An underground railway system is keeping track of customer travel times between different stations. They are using this data to calculate the average time it takes to travel from one station to another.</p>
+<h2><a href="https://leetcode.com/problems/design-underground-system">Design Underground System</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>An underground railway system is keeping track of customer travel times between different stations. They are using this data to calculate the average time it takes to travel from one station to another.</p>
 
 <p>Implement the <code>UndergroundSystem</code> class:</p>
 
