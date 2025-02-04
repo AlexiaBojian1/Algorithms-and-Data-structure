@@ -40,6 +40,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -79,6 +80,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
+| [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1488-sort-integers-by-the-power-value) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -150,6 +152,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -186,6 +189,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
+| [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
