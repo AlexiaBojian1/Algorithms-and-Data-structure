@@ -29,6 +29,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
+| [0503-next-greater-element-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
@@ -345,4 +346,12 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
