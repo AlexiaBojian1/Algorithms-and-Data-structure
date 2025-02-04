@@ -180,6 +180,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
@@ -277,6 +278,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -320,6 +322,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 ## Memoization
