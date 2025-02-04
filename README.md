@@ -117,6 +117,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
 |  |
@@ -148,6 +149,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
 ## Greedy
@@ -182,6 +184,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
+| [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
