@@ -10,6 +10,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0001-two-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
@@ -233,6 +234,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
@@ -315,4 +317,8 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
