@@ -161,6 +161,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 ## String
 |  |
@@ -301,6 +302,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 ## Memoization
 |  |
