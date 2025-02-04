@@ -9,6 +9,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0001-two-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
@@ -56,6 +57,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
