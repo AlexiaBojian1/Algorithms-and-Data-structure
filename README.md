@@ -13,6 +13,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0152-maximum-product-subarray) |
@@ -134,6 +135,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
@@ -222,6 +224,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
