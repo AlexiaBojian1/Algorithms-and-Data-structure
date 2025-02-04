@@ -138,6 +138,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
@@ -174,6 +175,7 @@ This repository contains a collection of problems related to algorithms and data
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
@@ -250,6 +252,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
