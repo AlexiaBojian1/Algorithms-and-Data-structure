@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/invalid-transactions">1272. Invalid Transactions</a></h2><h3>Medium</h3><hr><p>A transaction is possibly invalid if:</p>
+<h2><a href="https://leetcode.com/problems/invalid-transactions">Invalid Transactions</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A transaction is possibly invalid if:</p>
 
 <ul>
 	<li>the amount exceeds <code>$1000</code>, or;</li>
