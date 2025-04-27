@@ -14,23 +14,20 @@ public:
             reverse(result[i].begin(), result[i].end());
         }
 
-        for(int j = 0; j < m ; j++) {
-            for(int i = n - 1; i >= 0; i--) {
-                if(result[i][j] == '.') {
-                    int next = -1;
-                    for(int k = i - 1; k >=0 ; k--) {
-                        if(result[k][j] == '*'){
-                            break;
-                        }
-                        if(result[k][j] == '#') {
-                            next = k;
-                            break;
-                        }
-                    }
-                    if(next != -1) {
-                        result[next][j] = '.';
-                        result[i][j] = '#';
-                    }
+         for (int j = 0; j < m; j++) {
+            int lowestRowWithEmptyCell = n - 1;
+            // Process each cell in column `j` from bottom to top
+            for (int i = n - 1; i >= 0; i--) {
+                // Found a stone - let it fall to the lowest empty cell
+                if (result[i][j] == '#') {
+                    result[i][j] = '.';
+                    result[lowestRowWithEmptyCell][j] = '#';
+                    lowestRowWithEmptyCell--;
+                }
+                // Found an obstacle - reset `lowestRowWithEmptyCell` to the row
+                // directly above it
+                if (result[i][j] == '*') {
+                    lowestRowWithEmptyCell = i - 1;
                 }
             }
         }
