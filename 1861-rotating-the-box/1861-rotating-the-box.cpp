@@ -4,9 +4,9 @@ public:
         int m = boxGrid.size(); // rows
         int n = boxGrid[0].size(); // columns
         vector<vector<char>> result(n, vector<char>(m));
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                result[i][j] = boxGrid[j][i];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                result[j][i] = boxGrid[i][j];
             }
         }
 
