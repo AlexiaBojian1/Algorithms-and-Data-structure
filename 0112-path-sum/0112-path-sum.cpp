@@ -13,23 +13,19 @@ class Solution {
 public:
     int target;
     bool hasPathSum(TreeNode* root, int targetSum) {
-       target  = targetSum;
-       return dfs(root,0);
+        target = targetSum;
+        return dfs(root,0);
     }
-
     bool dfs(TreeNode* node, int curr) {
-
-        if (node == nullptr) {
+        if(node == nullptr) {
             return false;
         }
-        
         if(node->left == nullptr && node->right == nullptr) {
-            return (curr + node->val) == target;
+            return (curr + node-> val) == target;
         }
         curr += node->val;
-        int left = dfs(node->left, curr);
-        int right = dfs(node->right,curr);
+        bool left = dfs(node->left, curr);
+        bool right = dfs(node->right, curr);
         return left || right;
-
     }
 };
