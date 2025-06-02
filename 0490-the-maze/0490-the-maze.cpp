@@ -10,27 +10,23 @@ public:
         this->m = maze[0].size();
         vector<vector<bool>> seen(n, vector<bool>(m , false));
         queue<vector<int>> queue;
-        queue.push({start[0], start[1]});
+        queue.push({start[0],start[1]});
         seen[start[0]][start[1]] = true;
-
         while(!queue.empty()) {
             vector<int> curr;
             curr = queue.front();
             queue.pop();
-            if(curr[0] == destination[0] && curr[1] == destination[1]) {
+            if(curr[0] == destination[0] && curr[1] ==  destination[1]){
                 return true;
             }
-
             for(auto direction : directions) {
                 int row = curr[0];
                 int col = curr[1];
-
-                // Roll the ball until it hits a wall
-                while (valid(row + direction[0], col + direction[1])) {
-                    row += direction[0];
-                    col += direction[1];
+                while(valid(row + direction[0], col + direction[1])) {
+                    row = row + directions[0];
+                    col = col + directions[1];
                 }
-                if (!seen[row][col]) {
+                if(!seen[row][col]) {
                     seen[row][col] = true;
                     queue.push({row, col});
                 }
