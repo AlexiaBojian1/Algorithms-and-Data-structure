@@ -14,17 +14,21 @@ public:
     int goodNodes(TreeNode* root) {
         return dfs(root, INT_MIN);
     }
-    int dfs( TreeNode* node, int maxi) {
+
+    int dfs(TreeNode* node, int maxsofar) {
         if(node == nullptr) {
             return 0;
         }
 
-        int left = dfs( node->left, max(maxi, node->val));
-        int right = dfs(node->right, max(maxi, node->val));
-        int ans = right + left;
-        if(node->val >= maxi) {
+        int left = dfs(node -> left, max(maxsofar, node -> val));
+        int right = dfs(node -> right, max(maxsofar, node -> val));
+        int ans = left + right;
+
+        if(node -> val >= maxsofar) {
             ans++;
         }
+
         return ans;
+
     }
 };
