@@ -14,18 +14,25 @@ public:
     int target;
     bool hasPathSum(TreeNode* root, int targetSum) {
         target = targetSum;
-        return dfs(root,0);
+        return dfs(root, 0);
     }
-    bool dfs(TreeNode* node, int curr) {
-        if(node == nullptr) {
-            return false;
+
+    bool dfs( TreeNode* root, int curr) {
+        if(root == nullptr) {
+            return 0;
         }
-        if(node->left == nullptr && node->right == nullptr) {
-            return (curr + node-> val) == target;
+
+        if(root -> right == nullptr && root -> left == nullptr) {
+            return ( curr + root -> val == target);
         }
-        curr += node->val;
-        bool left = dfs(node->left, curr);
-        bool right = dfs(node->right, curr);
+         
+        curr = curr + root -> val;
+
+        bool left = dfs(root -> left, curr);
+        bool right = dfs(root -> right, curr);
+
         return left || right;
+
+
     }
 };
