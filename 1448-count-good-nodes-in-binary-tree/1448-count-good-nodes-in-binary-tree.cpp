@@ -15,19 +15,18 @@ public:
         return dfs(root, INT_MIN);
     }
 
-    int dfs(TreeNode* node, int maxsofar) {
+    int dfs(TreeNode* node, int maxi) {
         if(node == nullptr) {
             return 0;
         }
 
-        int left = dfs(node -> left, max(maxsofar, node -> val));
-        int right = dfs(node -> right, max(maxsofar, node -> val));
+        int left = dfs(node -> left, max(maxi, node -> val));
+        int right = dfs(node ->right, max(maxi, node -> val));
         int ans = left + right;
 
-        if(node -> val >= maxsofar) {
+        if(node -> val >= maxi) {
             ans++;
         }
-
         return ans;
 
     }
