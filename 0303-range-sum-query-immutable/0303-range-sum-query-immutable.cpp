@@ -14,6 +14,7 @@ public:
         if(left - 1 >= 0) {
             ans = ans - prefixSum[left - 1];
         }
+
         return ans;
     }
 };
