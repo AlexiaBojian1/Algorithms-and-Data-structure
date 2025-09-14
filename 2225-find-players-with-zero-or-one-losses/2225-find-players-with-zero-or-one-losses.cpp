@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
-         unordered_map<int,int> counts;
+        unordered_map<int,int> counts;
         for(auto& match: matches) {
             int winner= match[0], loser=match[1];
             if(counts.find(winner)==counts.end()){
