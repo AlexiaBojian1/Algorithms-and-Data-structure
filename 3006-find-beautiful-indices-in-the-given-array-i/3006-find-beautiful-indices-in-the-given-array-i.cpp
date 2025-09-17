@@ -11,7 +11,7 @@ public:
             }
         }
 
-        for(int i = 0; i < s.size(); i++) {
+        for(int i = 0; i < s.length(); i++) {
             if(s.substr(i, b.size()) == b) {
                 b_indices.push_back(i);
             }
@@ -19,7 +19,7 @@ public:
 
         int j = 0;
         for(int i : a_indices) {
-            while(j < b_indices.size() && b_indices[j] < i - k){
+            while(j < b_indices.size() && b_indices[j] < i - k) {
                 j++;
             }
 
@@ -29,5 +29,6 @@ public:
         }
 
         return result;
+
     }
 };
