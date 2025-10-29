@@ -24,6 +24,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0213-house-robber-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0238-product-of-array-except-self) |
 | [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
@@ -89,6 +90,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
