@@ -12,6 +12,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0027-remove-element](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -300,6 +302,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
