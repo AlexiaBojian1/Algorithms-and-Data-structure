@@ -51,6 +51,7 @@ This repository contains a collection of problems related to algorithms and data
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -65,6 +66,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3643-zero-array-transformation-ii) |
@@ -88,6 +91,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1488-sort-integers-by-the-power-value](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1488-sort-integers-by-the-power-value) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
