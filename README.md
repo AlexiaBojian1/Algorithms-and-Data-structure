@@ -52,6 +52,7 @@ This repository contains a collection of problems related to algorithms and data
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2262-solving-questions-with-brainpower) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -75,6 +76,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3643-zero-array-transformation-ii) |
@@ -92,6 +94,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
@@ -99,6 +102,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0238-product-of-array-except-self](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
@@ -172,6 +176,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
