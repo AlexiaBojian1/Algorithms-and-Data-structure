@@ -76,6 +76,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1023-time-based-key-value-store](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1023-time-based-key-value-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2690-house-robber-iv](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2690-house-robber-iv) |
@@ -135,6 +136,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
@@ -171,6 +173,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1023-time-based-key-value-store](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1023-time-based-key-value-store) |
 | [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -212,6 +215,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0752-ip-to-cidr](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0752-ip-to-cidr) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
+| [1023-time-based-key-value-store](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1023-time-based-key-value-store) |
 | [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
