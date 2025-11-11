@@ -203,6 +203,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
+| [0752-ip-to-cidr](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0752-ip-to-cidr) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
@@ -269,6 +270,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
+| [0752-ip-to-cidr](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0752-ip-to-cidr) |
 ## Sliding Window
 |  |
 | ------- |
