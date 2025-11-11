@@ -125,6 +125,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +147,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Data Stream
 |  |
 | ------- |
@@ -214,6 +216,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
 |  |
@@ -234,6 +237,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
