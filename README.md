@@ -40,6 +40,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
+| [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0875-longest-mountain-in-array) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
@@ -69,6 +70,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
+| [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0875-longest-mountain-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -286,6 +288,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0752-ip-to-cidr](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0752-ip-to-cidr) |
+| [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +339,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
+| [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -392,6 +396,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0348-design-tic-tac-toe) |
+| [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 ## Enumeration
 |  |
 | ------- |
