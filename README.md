@@ -123,6 +123,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1762-furthest-building-you-can-reach](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1762-furthest-building-you-can-reach) |
 | [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2161-stock-price-fluctuation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2161-stock-price-fluctuation) |
 | [2636-maximum-subsequence-score](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2636-maximum-subsequence-score) |
 ## Tree
 |  |
@@ -143,6 +144,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1023-time-based-key-value-store](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1955-seat-reservation-manager](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1955-seat-reservation-manager) |
+| [2161-stock-price-fluctuation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2161-stock-price-fluctuation) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -159,6 +161,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2161-stock-price-fluctuation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2161-stock-price-fluctuation) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +184,7 @@ This repository contains a collection of problems related to algorithms and data
 | [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
 | [1512-design-underground-system](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1512-design-underground-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2161-stock-price-fluctuation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2161-stock-price-fluctuation) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/3254-number-of-divisible-triplet-sums) |
 ## Greedy
 |  |
@@ -401,4 +405,8 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0875-longest-mountain-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
