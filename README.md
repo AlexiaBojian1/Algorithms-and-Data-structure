@@ -18,6 +18,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -304,6 +306,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0149-max-points-on-a-line) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
@@ -312,6 +315,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0149-max-points-on-a-line) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Dynamic Programming
 |  |
