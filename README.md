@@ -30,6 +30,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0348-design-tic-tac-toe](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0348-design-tic-tac-toe) |
@@ -258,6 +259,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
@@ -346,6 +348,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0348-design-tic-tac-toe](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0348-design-tic-tac-toe) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
