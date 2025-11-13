@@ -1,40 +1,43 @@
 class Solution {
 public:
-    int m,n;
     vector<vector<int>> grid;
+    vector<vector<int>> directions = {{1,0}, {0,1} , {-1,0},{0,-1}};
+    int m;
+    int n;
     vector<vector<bool>> seen;
-    vector<vector<int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
     int maxAreaOfIsland(vector<vector<int>>& grid) {
-        this->grid = grid;
-        m = grid.size();
-        n = grid[0].size();
-        seen = vector(m, vector<bool>(n,false));
+        int current = 0;
         int maxarea = 0;
-        for(int i=0;i<m;i++) {
-            for(int j = 0;j<n;j++) {
-                if(!seen[i][j] && grid[i][j] ==1){
+        this->grid = grid;
+        n = grid.size();
+        m = grid[0].size();
+        seen = vector(n, vector<bool>(m , false));
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(!seen[i][j] && grid[i][j] == 1) {
                     seen[i][j] = true;
-                    int currarea = dfs(i,j);
-                    maxarea = max(maxarea,currarea);
+                    current = dfs(i,j);
+                    maxarea = max(maxarea, current);
                 }
             }
         }
         return maxarea;
     }
 
-    int dfs(int row, int col){
+    int dfs(int i, int j) {
         int area = 1;
-        for(vector<int> direction : directions) {
-            int nextcol = col + direction[1];
-            int nextrow = row+ direction[0];
-            if(valid(nextrow,nextcol) && !seen[nextrow][nextcol]) {
-                seen[nextrow][nextcol] = true;
-                area = area+ dfs(nextrow, nextcol);
+        for(auto direction : directions) {
+            int newi = direction[0] + i;
+            int newj = direction[1] + j;
+            if( valid(newi, newj) && !seen[newi][newj]) {
+                seen[newi][newj] = true;
+                 area += dfs(newi, newj);
             }
         }
         return area;
     }
-    bool valid(int row, int col) {
-        return 0<=row && row < m && 0<=col && col < n && grid[row][col] ==1;
+     bool valid(int i, int j) {
+        return 0<=i && i <n && 0 <=j && j < m && grid[i][j] == 1;
     }
 };
