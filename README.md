@@ -24,6 +24,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0198-house-robber](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0015-3sum](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
@@ -118,6 +120,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
@@ -240,10 +243,12 @@ This repository contains a collection of problems related to algorithms and data
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
 |  |
