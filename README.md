@@ -35,6 +35,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0348-design-tic-tac-toe](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
+| [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
 | [0503-next-greater-element-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
@@ -119,6 +120,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
+| [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
@@ -181,6 +183,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0380-insert-delete-getrandom-o1](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -305,6 +308,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
 ## Math
 |  |
 | ------- |
