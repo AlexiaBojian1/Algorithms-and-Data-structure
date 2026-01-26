@@ -23,13 +23,31 @@ public:
         return ans;
     }
 
+    // void dfs(int x, int y) {
+    //     for(auto dir : directions) {
+    //         int newx = x + dir.first;
+    //         int newy = y + dir.second;
+    //         if(valid(newx, newy) && !seen[newx][newy]) {
+    //             seen[newx][newy] = true;
+    //             dfs(newx, newy);
+    //         }
+    //     }
+    // }
+
     void dfs(int x, int y) {
-        for(auto dir : directions) {
-            int newx = x + dir.first;
-            int newy = y + dir.second;
-            if(valid(newx, newy) && !seen[newx][newy]) {
-                seen[newx][newy] = true;
-                dfs(newx, newy);
+        stack<pair<int, int>> stack;
+        stack.push(pair(x, y));
+
+        while(!stack.empty()) {
+            auto[row, col] = stack.top();
+            stack.pop();
+            for(auto dir : directions) {
+                int newx = row + dir.first;
+                int newy = col + dir.second;
+                if(valid(newx, newy) && !seen[newx][newy]) {
+                    seen[newx][newy] = true;
+                    stack.push(pair(newx, newy));
+                }
             }
         }
     }
