@@ -433,6 +433,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
