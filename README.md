@@ -428,4 +428,12 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/2161-stock-price-fluctuation) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
