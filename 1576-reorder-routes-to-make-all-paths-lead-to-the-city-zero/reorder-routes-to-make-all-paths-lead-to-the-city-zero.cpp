@@ -1,30 +1,30 @@
 class Solution {
 public:
+    unordered_map<int, vector<int>> graph;
     set<vector<int>> roads;
     vector<bool> seen;
-    unordered_map<int, vector<int>> graph;
     int minReorder(int n, vector<vector<int>>& connections) {
-        seen = vector(n, false);
-        for(int i = 0;i < connections.size(); i++) {
-            int x = connections[i][0];
-            int y = connections[i][1];
-            graph[x].push_back(y);
-            graph[y].push_back(x);
-            roads.insert({x,y});
+        for(auto connection : connections) {
+            int from = connection[0];
+            int to = connection[1];
+            graph[from].push_back(to);
+            graph[to].push_back(from);
+            roads.insert(connection);
         }
+        seen = vector(n, false);
+        int ans = 0;
         seen[0] = true;
-        return dfs(0);
+        ans = dfs(0);
+        return ans;
     }
 
-    int dfs(int i) {
+    int dfs(int node) {
         int ans = 0;
-        for(int neight : graph[i]) {
-            if(!seen[neight]) {
-                if(roads.find({i,neight}) != roads.end()) {
-                    ans++;
-                }
-                seen[neight] = true;
-                ans += dfs(neight);
+        for(auto n : graph[node]) {
+            if(!seen[n]) {
+                seen[n] = true;
+                if(roads.contains({node, n})) ans++;
+                ans += dfs(n);
             }
         }
         return ans;
