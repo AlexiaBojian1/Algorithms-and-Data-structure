@@ -16,6 +16,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0149-max-points-on-a-line) |
@@ -254,6 +255,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
@@ -268,6 +270,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -360,6 +363,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -437,6 +441,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
