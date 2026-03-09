@@ -128,6 +128,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0355-design-twitter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0355-design-twitter) |
 | [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1304-longest-happy-string) |
@@ -266,6 +267,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1020-number-of-enclaves) |
@@ -289,6 +291,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0695-max-area-of-island](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
@@ -362,6 +365,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0542-01-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0875-longest-mountain-in-array) |
 | [1236-n-th-tribonacci-number](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1236-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1488-sort-integers-by-the-power-value) |
@@ -460,10 +464,15 @@ This repository contains a collection of problems related to algorithms and data
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
