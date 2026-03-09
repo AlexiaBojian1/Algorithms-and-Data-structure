@@ -14,6 +14,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0056-merge-intervals](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
@@ -228,6 +229,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0005-longest-palindromic-substring](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
@@ -258,6 +260,7 @@ This repository contains a collection of problems related to algorithms and data
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
@@ -376,6 +379,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
@@ -432,6 +436,7 @@ This repository contains a collection of problems related to algorithms and data
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
