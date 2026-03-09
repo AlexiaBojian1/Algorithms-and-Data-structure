@@ -50,6 +50,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0875-longest-mountain-in-array) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1127-last-stone-weight) |
@@ -295,6 +296,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -385,6 +387,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1171-shortest-path-in-binary-matrix) |
