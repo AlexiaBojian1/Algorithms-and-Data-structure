@@ -258,6 +258,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0463-island-perimeter) |
@@ -274,6 +275,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0130-surrounded-regions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
@@ -453,6 +455,11 @@ This repository contains a collection of problems related to algorithms and data
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
