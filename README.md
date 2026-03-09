@@ -31,6 +31,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0219-contains-duplicate-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0238-product-of-array-except-self) |
 | [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
+| [0269-alien-dictionary](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
 | [0303-range-sum-query-immutable](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0303-range-sum-query-immutable) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -233,6 +234,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0091-decode-ways](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0139-word-break) |
 | [0245-shortest-word-distance-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0245-shortest-word-distance-iii) |
+| [0269-alien-dictionary](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0269-alien-dictionary) |
 | [0273-integer-to-english-words](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -265,6 +267,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0463-island-perimeter) |
@@ -284,6 +287,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0200-number-of-islands](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0286-walls-and-gates) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0322-coin-change) |
@@ -471,6 +475,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0269-alien-dictionary) |
 | [0547-number-of-provinces](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
@@ -479,6 +484,7 @@ This repository contains a collection of problems related to algorithms and data
 | ------- |
 | [0207-course-schedule](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0269-alien-dictionary) |
 ## Shortest Path
 |  |
 | ------- |
