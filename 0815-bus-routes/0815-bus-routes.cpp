@@ -2,10 +2,9 @@ class Solution {
 public:
     int numBusesToDestination(vector<vector<int>>& routes, int source, int target) {
         if(source == target) return 0;
-
-        unordered_map<int,vector<int>> stop2route;
+        unordered_map<int, vector<int>> stop2route;
         for(int r =0 ; r < routes.size(); r++) {
-            for(int stop : routes[r]) {
+            for(auto& stop : routes[r]) {
                 stop2route[stop].push_back(r);
             }
         }
@@ -22,24 +21,23 @@ public:
         int buses = 1;
         while(!q.empty()) {
             int layer = q.size();
-            while(layer--) {
+            while(layer --) {
                 int r = q.front();
                 q.pop();
 
                 for(int stop : routes[r]) {
-                    if(stop ==target) return buses;
+                    if(stop == target) return buses;
                     if(stopSeen.insert(stop).second) {
-                        for(int next : stop2route[stop]) {
+                        for(auto next : stop2route[stop]) {
                             if(!routeSeen[next]) {
                                 routeSeen[next] = 1;
                                 q.push(next);
                             }
                         }
                     }
-
                 }
             }
-            buses++;
+            buses ++;
         }
         return -1;
     }
