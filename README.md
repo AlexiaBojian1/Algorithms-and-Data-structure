@@ -50,6 +50,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
+| [0815-bus-routes](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0815-bus-routes) |
 | [0861-flipping-an-image](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0875-longest-mountain-in-array) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
@@ -197,6 +198,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0480-sliding-window-median](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
+| [0815-bus-routes](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0815-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1023-time-based-key-value-store) |
 | [1272-invalid-transactions](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/1272-invalid-transactions) |
@@ -303,6 +305,7 @@ This repository contains a collection of problems related to algorithms and data
 | [0733-flood-fill](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0753-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AlexiaBojian1/Algorithms-and-Data-structure/tree/master/0945-snakes-and-ladders) |
