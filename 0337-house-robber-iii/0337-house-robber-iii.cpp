@@ -12,20 +12,16 @@
 class Solution {
 public:
     int rob(TreeNode* root) {
-        auto[robRoot , skipRoot] = dfs(root);
+        auto[robRoot, skipRoot] = dfs(root);
         return max(robRoot, skipRoot);
     }
 
     pair<int, int> dfs(TreeNode* node) {
-        if(!node) {
-            return {0,0};
-        }
-
-        auto[leftRob, leftSkip] = dfs(node->left);
-        auto[rightRob, rightSkip] = dfs(node->right);
-
-        int robThis = node->val + leftSkip + rightSkip;
-        int skipThis = max(leftRob, leftSkip) + max(rightRob ,rightSkip);
-        return {robThis, skipThis};
+        if(!node) return {0, 0};
+        auto[leftrob, leftskip] = dfs(node->left);
+        auto[rightrob, rightskip] = dfs(node->right);
+        int robthis = node->val + leftskip + rightskip;
+        int skipthis = max(leftrob, leftskip) + max(rightrob, rightskip);
+        return {robthis, skipthis};
     }
 };
